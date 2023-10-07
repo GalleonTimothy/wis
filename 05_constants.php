@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP History</title>
     <style>
+        
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
